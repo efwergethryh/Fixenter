@@ -1,12 +1,10 @@
 
 
 
-![IMG-20231223-WA0009](https://github.com/efwergethryh/Zaomi-travel/assets/94201610/a798f709-ff5d-414c-b1e5-40e9c699adda)
-![FLIGHT](https://github.com/efwergethryh/Fixenter/assets/94201610/d971295d-81d9-4dd5-b0b1-c73c2ac268bc)
-![IMG-20231223-WA0010](https://github.com/efwergethryh/Fixenter/assets/94201610/63c89b1a-5848-4080-93e2-043db55e67af)
-![IMG-20231223-WA0011](https://github.com/efwergethryh/Fixenter/assets/94201610/5c1ca5d7-6ab8-46a8-b24c-daa54b2fc0e4)
 
-![WhatsApp Image 2023-12-23 at 14 57 05_82d5a3de](https://github.com/efwergethryh/Fixenter/assets/94201610/8e6c9edf-8fdb-4b3f-aa81-c3dd2d721de3)
-![WhatsApp Image 2023-12-23 at 14 59 11_e52214af](https://github.com/efwergethryh/Zaomi-travel/assets/94201610/3223e612-4e4e-426a-a6c0-1cb132d70136)
-![WhatsApp Image 2023-12-23 at 14 59 11_e8678e53](https://github.com/efwergethryh/Zaomi-travel/assets/94201610/942317e1-5e00-49d6-8c3f-6d40756491d5)
 
+![movies](https://github.com/efwergethryh/Fixenter/assets/94201610/de6a4cb0-405c-4937-a9e9-a638e4ff48e3)
+![shows](https://github.com/efwergethryh/Fixenter/assets/94201610/ebce7beb-fa4a-4e5e-af99-a414a6537607)
+![movie](https://github.com/efwergethryh/Fixenter/assets/94201610/9aa6e24b-3096-4db9-b6ab-f6aa6f25075f)
+![show](https://github.com/efwergethryh/Fixenter/assets/94201610/43231de9-f72a-4f25-be85-e323b00521d9)
+![tv](https://github.com/efwergethryh/Fixenter/assets/94201610/a2c1d8f2-2eba-48e1-a589-00b1d9b462df)
