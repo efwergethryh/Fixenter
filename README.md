@@ -1,8 +1,4 @@
-Fixenter
-
-
-
-
+#Fixenter
 ![movies](https://github.com/efwergethryh/Fixenter/assets/94201610/de6a4cb0-405c-4937-a9e9-a638e4ff48e3)
 ![shows](https://github.com/efwergethryh/Fixenter/assets/94201610/ebce7beb-fa4a-4e5e-af99-a414a6537607)
 ![movie](https://github.com/efwergethryh/Fixenter/assets/94201610/9aa6e24b-3096-4db9-b6ab-f6aa6f25075f)
